@@ -1,2 +1,16 @@
 Hello nitesh can you help me to undersend the collobreaion
 yes , I will help you.
+
+ Especially how to work with branches, and use push and pull correctly. Let's break it down in simple steps.
+
+1. Basic Git Collaboration Setup
+When working with others or syncing your code from local to GitHub (remote), you need:
+
+A remote repository on GitHub
+
+Your local clone
+
+Proper branching strategy
+ghh
+
+This is a sample file of dark-mode, where main repo name is test-access.
