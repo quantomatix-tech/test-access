@@ -12,3 +12,4 @@ Your local clone
 
 Proper branching strategy
 ghh
+hello guy's this is purple-mode
