@@ -12,3 +12,5 @@ Your local clone
 
 Proper branching strategy
 ghh
+
+This is a sample file of dark-mode, where main repo name is test-access.
